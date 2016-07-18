@@ -1,0 +1,11 @@
+source https://www.nuget.org/api/v2
+framework >= net461
+
+nuget log4net 1.2.10
+nuget Shaolinq.SqlServer
+nuget JetBrains.Annotations
+nuget Nancy.Hosting.Aspnet
+nuget Automapper
+nuget Microsoft.Extensions.Configuration.Abstractions
+nuget Microsoft.Extensions.Configuration.Json 
+nuget Microsoft.Extensions.Primitives
